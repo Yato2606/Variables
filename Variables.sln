@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInt", "StringInt\StringInt.csproj", "{E537346A-8435-499F-BE87-2D668190BB40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciclo for", "Ciclo for\Ciclo for.csproj", "{FB87B368-5275-4337-93F0-B5E9584A86B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E537346A-8435-499F-BE87-2D668190BB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E537346A-8435-499F-BE87-2D668190BB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E537346A-8435-499F-BE87-2D668190BB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB87B368-5275-4337-93F0-B5E9584A86B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB87B368-5275-4337-93F0-B5E9584A86B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB87B368-5275-4337-93F0-B5E9584A86B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB87B368-5275-4337-93F0-B5E9584A86B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
